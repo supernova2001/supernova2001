@@ -5,9 +5,9 @@ I am a Software Engineer, currently pursuing Master of Science in Computer Scien
 <img src="https://resumeworded.com/skills-and-keywords/img/software-engineering.jpeg" align="right" width="550px"/>
 <br clear="left"/>
 <ul>
-<li>You can reach out to me at <a href="jkashig@iu.edu">Email</a></li>
-<li>You can download my Resume here <a href="https://drive.google.com/file/d/1LmCSXSRjNfMm--Fq45LQOqJySUkb261_/view?usp=drive_link">Resume</a></li>
-<li> I use to write articles on Medium and Linkedin. I am planning to restart blogging to share my knowledge and experiences with the people out there.
+<li> 🌱 I’m passionate about Full stack development and Data Analytics. </li>
+  <li>⚡ You can download my Resume here <a href="https://drive.google.com/file/d/1LmCSXSRjNfMm--Fq45LQOqJySUkb261_/view?usp=drive_link">Resume</a></li>
+  <li>You can reach out to me at <a href="jkashig@iu.edu">Email</a></li>
 <li>Fun Fact: I will be the first person to say YES if there is any travel plan. I am very much into travelling and photography.</li>
 <li>Interests: Photography, Political discussions, Cricket, Travelling </li>
 </ul>
