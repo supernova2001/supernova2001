@@ -2,7 +2,7 @@
 
 I am a Software Engineer, currently pursuing Master of Science in Computer Science at Indiana University, Bloomington. I have 2 years of professional experience including 1 year as a Software Engineer at Reputation.com, 6 months as a Systems Reliability Engineer Intern at Nutanix Inc and several other internships in the fields of Data Science and Analytics, and Full Stack Web Development. 
 
-<img src="https://resumeworded.com/skills-and-keywords/img/software-engineering.jpeg" align="right" width="550px"/>
+<img src="https://resumeworded.com/skills-and-keywords/img/software-engineering.jpeg" align="right" width="400px" height="250px"/>
 <br clear="left"/>
 <ul>
 <li> 🌱 I’m passionate about Full stack development and Data Analytics. </li>
