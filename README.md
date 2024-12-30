@@ -1,6 +1,6 @@
 # Hey there! This is Janakiram Sharma.
 
-I am a Software Engineer, currently pursuing Master of Science in Computer Science at Indiana University, Bloomington. I have 2 years of professional experience including 1 year as a Software Engineer at Reputation.com, 6 months as a Systems Reliability Engineer Intern at Nutanix Inc and several other internships in the fields of Data Science and Analytics, and Full Stack Web Development. 
+I am a Software Engineer, currently pursuing Master of Science in Computer Science at Indiana University, Bloomington. I have 2 years of professional experience including an enriching position as a Technology Intern at HAVI based out of Chicago, 1 year as a Software Engineer at Reputation.com and 6 months as a Systems Reliability Engineer Intern at Nutanix Inc. 
 
 <img src="https://resumeworded.com/skills-and-keywords/img/software-engineering.jpeg" align="right" width="400px" height="250px"/>
 <br clear="left"/>
