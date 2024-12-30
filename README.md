@@ -15,11 +15,13 @@ I am a Software Engineer, currently pursuing Master of Science in Computer Scien
 <br>
 <br>
 <div id="badges" align="left">
-  <h3>Connect with me</h3>
+  <h3>Links</h3>
   <a href="https://www.linkedin.com/in/janakiram-sharma-4610a2194/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://janakiramsharma.medium.com/">
   <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="https://drive.google.com/file/d/1PBt_NpEvwONm9xzc4lpCqcrx_u5HZM-m/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge">
 </div>
 <p align="center">
   <h3>My skills</h3>
