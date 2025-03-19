@@ -1,4 +1,7 @@
 # Hey there! This is Janakiram Sharma.
+# Update: We won IU Luddy x ServiceNow Hackathon. Stood 1st out of 255 participants by building an end to end open source API framework for point of collaboration between employees working on same project across different locations. 
+# Project documentation link: https://touchify.netlify.app/documentation
+
 
 I am a Software Engineer, currently pursuing Master of Science in Computer Science at Indiana University, Bloomington. I have 2 years of professional experience including an enriching position as a Technology Intern at HAVI based out of Chicago, 1 year as a Software Engineer at Reputation.com and 6 months as a Systems Reliability Engineer Intern at Nutanix Inc. 
 
