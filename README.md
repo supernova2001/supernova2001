@@ -7,7 +7,7 @@ I'm a **Software Engineer** and a Master's student in Computer Science at **Indi
 - **Technology Developer @ HAVI (Chicago, IL)** — Software Engineering and Development, Full Stack Development, Distributed Systems and Data Analysis.
 - **Software Engineer @ Reputation.com** — Software Development using React, Node.js, and microservices
 - **SRE @ Nutanix Inc.** — Infrastructure monitoring, CI/CD optimization, and cloud performance tuning
-- ** Full Stack Engineer @ Mentormind** - Full Stack Development, MERN stack, Socket.io
+- **Full Stack Engineer @ Mentormind** - Full Stack Development, MERN stack, Socket.io
 
 ### 🚀 About Me
 - 🌱 Passionate about **full-stack development**, **cloud infrastructure**, and **data analytics**.
