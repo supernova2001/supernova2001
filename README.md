@@ -11,7 +11,7 @@ I'm a **Software Engineer** and a Master's student in Computer Science at **Indi
 
 ### 🚀 About Me
 - 🌱 Passionate about **full-stack development**, **cloud infrastructure**, and **data analytics**.
-- ✉️ Reach me at: [ram.kashigari@gmail.com](mailto:ram.kashigari@gmail.com).
+- ✉️ Reach me at: [janakiramsharmak@gmail.com](mailto:janakiramsharmak@gmail.com).
 - 📷 Fun Fact: I can talk CI/CD and cricket with equal enthusiasm—preferably not at the same time - Priorities.
 - 🏏 Interests: Cricket, political debates, travel, photography, and exploring different cultures.
 
